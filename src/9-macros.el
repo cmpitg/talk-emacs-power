@@ -1,0 +1,1 @@
+;;; Macro to extract functions

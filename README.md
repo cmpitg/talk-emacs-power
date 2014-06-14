@@ -18,54 +18,22 @@ Have any question or feedback? Go http://goo.gl/DzAZql.
 
 ## Outline ##
 
-1. The `~next-slide function`:
+1. `~next-slide`:
 
   * Live evaluation
-  * 
+  * `hippe-expand`
+  * Paredit
 
-* Navigation
-  - ace-jump-mode
+1. Introduction
 
-* Auto completion and dabbrev
+1. TLDR
 
-* Yassnippet
+  "Talk is cheap.  Show be the code." by Linus Torvalds.
 
-* Multiple cursors
+1. SSH accessing with Tramp - Live demo
 
-* Size calculation with Awk-like thing
-
-* Macro and function extraction
-
-* Buffer switching
-  - Jump to my bookmark
-
-* Emacs file browser
-
-* Wand - click to evaluate
-
-* Window manipulation:
-  - Splitting
-  - Quick switching
-  - Last buffer
-  - Recent files
-  - Shell on your hand
-
-* Quick keybinding:
-  - erun
-  - srun
-
-* Literate programming-like style
-
-* File manipulation:
-  - Mass renaming
-  - Rename current file
-  - Delete current file
-  - Save as script
-  - Compile HAML or SCSS or SASS
-
-* Interacting with the browser
-  - MozRepl
-  - Google
+  * Modify `index.html`
+  * File management with Dired
 
 ## License ##
 

@@ -1,9 +1,11 @@
 # Emacs Power
 
-This is the source of my talk at [AiTi Aptech](http://aiti-aptech.edu.vn/) on
-June 14, 2014.
+[This](https://github.com/cmpitg/talk-emacs-power) is the source of my talk at
+[AiTi Aptech](http://aiti-aptech.edu.vn/) on June 14, 2014.
 
 The talk is in Vietnamese.
+
+Have any question or feedback? Go http://goo.gl/DzAZql.
 
 ## Contents ##
 

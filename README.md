@@ -66,5 +66,5 @@ Have any question or feedback? Go http://goo.gl/DzAZql.
 ## License ##
 
 The talk is licensed under the terms of the
-[Creative Commons Attribution Share-Alike Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/)
+[Creative Common Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/)
 (CC BY-SA 3.0).
